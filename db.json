@@ -2,19 +2,19 @@
   "orders": [
     {
       "id": 1,
-      "product_name": "Chicken Barley"
+      "product_name": "Chicken Barley",
       "label_quantity": 750,
       "production_date": "2018-05-31T12:00:00+00:00"
     },
     {
       "id": 2,
-      "product_name": "Lamb Corma"
+      "product_name": "Lamb Corma",
       "label_quantity": 640,
       "production_date": "2018-05-31T12:00:00+00:00"
     },
     {
       "id": 3,
-      "product_name": "Tsüri Gschnätzlets"
+      "product_name": "Tsüri Gschnätzlets",
       "label_quantity": 910,
       "production_date": "2018-05-31T12:00:00+00:00"
     }

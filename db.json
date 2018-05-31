@@ -17,6 +17,18 @@
       "product_name": "Tsüri Gschnätzlets",
       "label_quantity": 910,
       "production_date": "2018-05-31T12:00:00+00:00"
+    },
+    {
+      "id": 4,
+      "product_name": "Beef Curry",
+      "label_quantity": 300,
+      "production_date": "2018-06-01T12:00:00+00:00"
+    },
+    {
+      "id": 5,
+      "product_name": "Spring Rolls",
+      "label_quantity": 550,
+      "production_date": "2018-06-01T12:00:00+00:00"
     }
   ],
   "profile": {
